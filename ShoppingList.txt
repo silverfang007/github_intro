@@ -5,3 +5,4 @@ Oranges
 Kiwi
 Banans
 Cherries
+Cereal
